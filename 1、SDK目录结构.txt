@@ -1,21 +1,21 @@
-1¡¢add-ons: ¸ÃÄ¿Â¼ÏÂ´æ·ÅµÄÊÇµÚÈı·½¹«Ë¾ÎªandroidÆ½Ì¨¿ª·¢µÄ¸½¼Ó¹¦ÄÜÏµÍ³¡£
+1ã€add-ons: è¯¥ç›®å½•ä¸‹å­˜æ”¾çš„æ˜¯ç¬¬ä¸‰æ–¹å…¬å¸ä¸ºandroidå¹³å°å¼€å‘çš„é™„åŠ åŠŸèƒ½ç³»ç»Ÿã€‚
 
-2¡¢platforms: ²»Í¬°æ±¾µÄAndroidÏµÍ³¡£
+2ã€platforms: ä¸åŒç‰ˆæœ¬çš„Androidç³»ç»Ÿã€‚
 
-3¡¢tools: ´æ·Å´óÁ¿Android¿ª·¢µ÷ÊÔ¹¤¾ß¡£
+3ã€tools: å­˜æ”¾å¤§é‡Androidå¼€å‘è°ƒè¯•å·¥å…·ã€‚
 
-4¡¢AVD Manager.exe: AVD¹ÜÀíÆ÷
+4ã€AVD Manager.exe: AVDç®¡ç†å™¨
 
-5¡¢SDK Manager.exe: SDK¹ÜÀíÆ÷
+5ã€SDK Manager.exe: SDKç®¡ç†å™¨
 
-6¡¢doc: Android SDK ¿ª·¢ÎÄ¼şºÍAPIÎÄµµ£»
+6ã€doc: Android SDK å¼€å‘æ–‡ä»¶å’ŒAPIæ–‡æ¡£ï¼›
 
-7¡¢extras: googleÌá¹©µÄUSBÇı¶¯¡¢IntelÌá¹©µÄÓ²¼ş¼ÓËÙµÈ¸½¼Ó¹¤¾ß°ü¡£
+7ã€extras: googleæä¾›çš„USBé©±åŠ¨ã€Intelæä¾›çš„ç¡¬ä»¶åŠ é€Ÿç­‰é™„åŠ å·¥å…·åŒ…ã€‚
 
-8¡¢platform-tools: android Æ½Ì¨Ïà¹Ø¹¤¾ß
+8ã€platform-tools: android å¹³å°ç›¸å…³å·¥å…·
 
-9¡¢samples: ²»Í¬AndroidÆ½Ì¨µÄÊ¾Àı³ÌĞò
+9ã€samples: ä¸åŒAndroidå¹³å°çš„ç¤ºä¾‹ç¨‹åº
 
-10¡¢sources: Android Ô´´úÂë¡£
+10ã€sources: Android æºä»£ç ã€‚
 
-11¡¢system-images: ¸ù¾İ²»Í¬µÄcpu¼Ü¹¹Ìá¹©µÄÏµÍ³¾µÏñ¡£
+11ã€system-images: æ ¹æ®ä¸åŒçš„cpuæ¶æ„æä¾›çš„ç³»ç»Ÿé•œåƒã€‚
