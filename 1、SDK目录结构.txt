@@ -1,0 +1,21 @@
+1、add-ons: 该目录下存放的是第三方公司为android平台开发的附加功能系统。
+
+2、platforms: 不同版本的Android系统。
+
+3、tools: 存放大量Android开发调试工具。
+
+4、AVD Manager.exe: AVD管理器
+
+5、SDK Manager.exe: SDK管理器
+
+6、doc: Android SDK 开发文件和API文档；
+
+7、extras: google提供的USB驱动、Intel提供的硬件加速等附加工具包。
+
+8、platform-tools: android 平台相关工具
+
+9、samples: 不同Android平台的示例程序
+
+10、sources: Android 源代码。
+
+11、system-images: 根据不同的cpu架构提供的系统镜像。
