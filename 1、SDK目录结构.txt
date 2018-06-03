@@ -9,7 +9,7 @@
 5、SDK Manager.exe: SDK管理器
 
 6、doc: Android SDK 开发文件和API文档；
-
+3
 7、extras: google提供的USB驱动、Intel提供的硬件加速等附加工具包。
 
 8、platform-tools: android 平台相关工具
